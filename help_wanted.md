@@ -2,13 +2,14 @@
 
 We use two labels `contributor/help-wanted` and `contributor/good-first-issue`
 to identify issues that have been specially groomed for both existing and new contributors. 
-The `contributor/good-first-issue` indicates that members have committed to providing extra assistance for new contributors.
+The `contributor/good-first-issue` label indicates that members have committed to providing extra assistance for new contributors.
 
 We also have some suggestions for using these labels to help grow and improve our community.
 
 ## Help Wanted
 
-Items marked with the `contributor/help-wanted` label need to ensure that they are:
+Items marked with the `contributor/help-wanted` label should be identified by maintainers
+as meeting one or more of the following criteria:
 
 - **Low Barrier to Entry**
 
@@ -48,11 +49,14 @@ or identify that their build failed due to a flake.**
 This makes new contributors feel welcome and valued,
 further assuring them that they will have an extra level of help with their first contribution.
 
-After a contributor has successfully completed 1-2 `contributor/good-first-issue`'s, 
-they should be ready to move on to `contributor/help-wanted` items,
-saving remaining `contributor/good-first-issue`'s for other new contributors.
+> Note: It is not necessary for new contributors to work on `good-first-issue`'s prior to working on `help-wanted` issues
+so long as they feel confident in their ability to contribute.
 
-These items need to ensure that they follow the guidelines for `contributor/good-first-issue` labels (above)
+After a contributor has successfully completed one or two `good-first-issue`'s, 
+they should be ready to move on to `help-wanted` items,
+saving remaining `good-first-issue`'s for other new contributors.
+
+These items should ensure that they follow the guidelines for `contributor/good-first-issue` labels (above)
 in addition to meeting the following criteria:
 
 - **No Barrier to Entry**
@@ -92,7 +96,7 @@ The following suggestions go a long way toward preventing "drive-by" PRs,
 and ensure that our investment in new contributors is rewarded
 by them coming back and becoming regulars.
 
-Provide extra assistance during reviews on `contributor/good-first-issue` pull requests:
+Provide extra assistance during reviews on `good-first-issue` pull requests:
 
 - Answer questions and identify useful docs.
 - Offer advice such as *"One way to reproduce this in a cluster is to do X
@@ -100,7 +104,7 @@ and then you can use the GDB to poke around"*,
 or *"Did you know that you can use fake clients to setup and test this easier?".*
 - Help new contributors learn enough about the project, setting up their environment,
 running tests, and navigating this area of the code
-so that they can tackle a related `contributor/help-wanted` issue next time.
+so that they can tackle a related `help-wanted` issue next time.
 
 If you make someone feel like a part of our community, that it's safe to ask questions,
 that people will let them know the rules/norms, that their contributions are helpful 
@@ -108,19 +112,16 @@ and appreciated... they will stick around! 🌈
 
 - Encourage new contributors to seek help on the appropriate discussion forums,
 introduce them, and include them in your conversations.
-- Invite them to the officially join the Traefik Ambassador Program
-and contributor meetings.
+- Invite them to the montly office hours to ask questions and communicate with the team.
 - Give credit to new contributors so that others get to know them,
 *"Hey, would someone help give a second LGTM on @newperson's first PR on chocolate bunnies?"*.
-Mention them in the Ambassador discord, thank them on twitter.
+mention them on social media, thank them on twitter, etc.
 - Use all the emoji in your approve or lgtm comment. 💖 🚀
 Also gifs, use gifs.  
-- Let them know that their `contributor/good-first-issue` is getting extra attention
+- Let them know that their `good-first-issue` is getting extra attention
 to make the first one easier and help them find a follow-up issue.
-- Suggest a related `contributor/help-wanted` issue so that can build up experience in an area.
+- Suggest a related `help-wanted` issue so that can build up experience in an area.
 - People are more likely to continue contributing when they know what to expect,
 what's the acceptable way to ask for people to review a PR,
 nudge things along when a PR is stalled. Show them how we operate
 by helping move their first PR along.
-- If you have time, let the contributor know that they can DM you on the Ambassador discord
-with questions that they aren't yet comfortable asking the wider group.
