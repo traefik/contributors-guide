@@ -1,7 +1,3 @@
----
-title: "Traefik Pull Requests Documentation"
-description: "Looking to contribute to Traefik Proxy? This guide will show you the guidelines for submitting a PR in our contributors guide repository."
----
 # Before You Submit a Pull Request
 
 This guide is for contributors who already have a pull request to submit. 
