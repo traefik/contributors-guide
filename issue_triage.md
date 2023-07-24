@@ -12,7 +12,7 @@ Triaging involves categorizing issues and PRs based on factors such as priority/
 
 - Each project is responsible for handling their own issues or pull requests
 
-Triaging occurs in regularly scheduled daily meetings and may occur asynchronously depending on the severity of the issue or PR
+Triaging occurs in regularly scheduled meetings and may occur asynchronously depending on the severity of the issue or PR
 
 ## Why Is Triaging Beneficial?
 
