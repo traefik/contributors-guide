@@ -1,4 +1,4 @@
-#Governance Framework
+# Governance Framework
 
 - Traefik is Open Source
 - Traefik provides a welcoming and respectful environment to everyone, in all situations
