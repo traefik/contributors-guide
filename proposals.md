@@ -7,7 +7,7 @@ Contributors can still accompany PRs with a proposal to provide a proof of conce
 
 ## Proposals and Workflow
 
-During the triage process, proposals should be assigned a time frame to allow community members to express their opinion, and maintainers to refine the need and fully understand the scope of the feature being discussed.
+During the triage process, proposals should ideally be assigned a time frame to allow community members to express their opinion, and maintainers to refine the need and fully understand the scope of the feature being discussed.
 
 Once the time frame is over, maintainers will document their decision to either: 
 - accept the proposal
