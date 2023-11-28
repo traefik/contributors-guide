@@ -7,12 +7,12 @@ Projects are welcome to use this guidance as a starting point and customize to a
 
 ## What Is Triaging?
 
-Issue triage is a process by which a project intakes and reviews new GitHub issues and requests, and organizes them to be actioned—usually by its own members.
+Issue triage is a process by which a project intakes and reviews new GitHub issues and requests, and organizes them to be actioned — usually by its own members.
 Triaging involves categorizing issues and PRs based on factors such as priority/severity, ownership of the issue, and the issue kind (bug, feature, etc.)
 
 - Each project is responsible for handling their own issues or pull requests
 
-Triaging occurs in regularly scheduled daily meetings and may occur asynchronously depending on the severity of the issue or PR
+Triaging occurs in regularly scheduled meetings and may occur asynchronously depending on the severity of the issue or PR
 
 ## Why Is Triaging Beneficial?
 
@@ -45,10 +45,10 @@ In almost all cases, these bots take action based on certain activities being pe
 
 ## Review Newly Created Open Issues
 
-Project issues, and labels are listed for each project here:
+Project issues and labels are listed for each project here:
 
-- [Traefik](https://github.com/containous/traefik/issues)
-- [Labels](https://github.com/containous/traefik/labels)
+- [Traefik issues](https://github.com/containous/traefik/issues)
+- [Labels](https://github.com/containous/traefik/labels) and their [description](./labels.md)
 
 New, untriaged issues are assigned the label `status/0-needs-triage` automatically.
 During the issue triage meeting, project leads could identify at least one team member to serve as the individual responsible for applying labels and assigning ownership for incoming issues that require any action.
@@ -105,7 +105,7 @@ Once triaged, issues should be assigned one of the following `kind` labels:
 
 - `kind/bug/possible` or `kind/bug/confirmed`
 - `kind/enhancement`
-- `kind/proposal`
+- `kind/proposal` see [Proposals](./proposals.md)
 - `kind/question`
 
 ## Define Priority
@@ -143,6 +143,10 @@ Based on the labels applied to the issue, it may be closed for the following rea
 - `contributor/waiting-for-feedback` or `contributor/need-more-information` are automatically closed after 60 days of no activity
 - `kind/question` are automatically closed after 8 days with no activity
 - closed issues have `status/5-frozen-due-to-age` applied automatically after 30 days of no activity
+
+## Abuse reports
+
+According to our [Code of Conduct](https://github.com/traefik/traefik/blob/master/CODE_OF_CONDUCT.md), [abuse reports](https://github.com/traefik/traefik/reported_content) should be handled during the triage process as well.
 
 ## Footnotes
 

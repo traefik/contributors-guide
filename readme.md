@@ -4,7 +4,9 @@ This repository is an experimental way of exposing and improving how the maintai
 
 This document should serve as a general guideline on how contributions from the community are handled and prioritized.
 
+* [Governance](./governance.md)
 * [Issue Triage](./issue_triage.md)
+* [Proposals](./proposals.md)
 * [Pull Request Guidelines](./pr_guidelines.md)
 * [Review Guidelines](./review_guidelines.md)
 * [Help Wanted](./help_wanted.md)
